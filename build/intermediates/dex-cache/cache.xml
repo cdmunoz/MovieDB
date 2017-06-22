@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Mac/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-moshi/2.1.0/9cf9b3171c839a49b1924303105e8b4e57b497e8/converter-moshi-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9cf9b3171c839a49b1924303105e8b4e57b497e8">
+        <dex dex="/Users/Mac/Android/MovieDB/app/build/intermediates/transforms/dex/debug/folders/1000/10/converter-moshi-2.1.0_d6e889aebe8cdc30a71ab97d175bd2eab22955ed/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Mac/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-beta4/constraint-layout-solver-1.0.0-beta4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a9cb567dc008f570c28531720168f19148da965">
+        <dex dex="/Users/Mac/Android/MovieDB/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.0-beta4_ce01a9af44aeeea0f6075ddb3b8d22691e4a54ae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Mac/Android/MovieDB/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aa8a0aae107b33c58fcaa8ddd2f42e006417e13d">
+        <dex dex="/Users/Mac/Android/MovieDB/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_59de4943e8e59b2de299ca4bf4aa9238a0af7adc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Mac/.android/build-cache/7bf94c61a2660b168a4879612ba006eb03fa3708/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a07818a1ecabdb149998823429cce555af4b9cba">
+        <dex dex="/Users/Mac/Android/MovieDB/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ac6b0405cb591e2a52f4091e0bf7d52a4ccd72fc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Mac/.android/build-cache/c9456b5bbc232ce2bcfebb8699fbafdacdab2267/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="32f45bd44a3e7efc235bbfed120029290f5d674a">
+        <dex dex="/Users/Mac/Android/MovieDB/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bbc699b7e1dcc77f808a353c2fdfc46f157726bf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Mac/.android/build-cache/3f9c15eb32fcc38b10877c78c72db69fc36b1422/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="14b7671602012d7822c2c9328dbeecb91ff2588b">
+        <dex dex="/Users/Mac/Android/MovieDB/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_48a54485f1dbb6ae67ef6c27edd2235e40a11a8a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Mac/Android/MovieDB/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/Mac/Android/MovieDB/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_8d3d74d79883e7523c4353ef2e25e6092d1d679a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Mac/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Users/Mac/Android/MovieDB/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.9.0_7093fac4c177eeced29f9393c79ff1a91efd45a3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Mac/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.4.0/ea392375cf9ff59234a82e7928a204215ccc98cd/butterknife-annotations-8.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea392375cf9ff59234a82e7928a204215ccc98cd">
+        <dex dex="/Users/Mac/Android/MovieDB/app/build/intermediates/transforms/dex/debug/folders/1000/10/butterknife-annotations-8.4.0_e8be8d37c4aa7714507d697697da58cae837bfb6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Mac/.android/build-cache/dfa6308314149eb6aba1ee505d3ae2f571b65625/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="662d7533b25a666c649c10a16b42edfb95f25a4f">
+        <dex dex="/Users/Mac/Android/MovieDB/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3271cb0fa02b6fc671f5e20212561a203382c02e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Mac/.gradle/caches/modules-2/files-2.1/com.squareup.moshi/moshi/1.2.0/c27dff1588c45efcff2e07c29e9d148ee707da29/moshi-1.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c27dff1588c45efcff2e07c29e9d148ee707da29">
+        <dex dex="/Users/Mac/Android/MovieDB/app/build/intermediates/transforms/dex/debug/folders/1000/10/moshi-1.2.0_29b311651151afb79d51c111c31d292751b3f78c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Mac/.android/build-cache/049720e63e1e8aca7e62c718dc688082e74a0f9b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="79c3d4a8ca3c04c5fd5a4a72d43a29fe6d3667b4">
+        <dex dex="/Users/Mac/Android/MovieDB/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ba142ece2efeadd0415e591442ad1419a2a4da60/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Mac/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.2/ccde00f7ccc77af5a6d5752e2cb21f6d8998289f/okhttp-3.4.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ccde00f7ccc77af5a6d5752e2cb21f6d8998289f">
+        <dex dex="/Users/Mac/Android/MovieDB/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.4.2_6895d6727c17dda5db633878bff32e5d9195a4b3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Mac/.android/build-cache/4d4535ae14b7c6875e87935844b542deda98b913/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="24a746ed49aea913f5f009715c49e01a8d758e3f">
+        <dex dex="/Users/Mac/Android/MovieDB/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bacfa086512be1230367b727327100e68acc8cc1/classes.dex" />
+    </item>
+
+</items>
